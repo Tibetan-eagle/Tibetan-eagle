@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tibetan-eagle
+- 👋 Hi, I’m @TenzinK
 - 👀 I’m interested in applied machine learning in medical image data
 - 🌱 I’m currently pursuing Medical Physics
 - 📫 How to reach me kunkyab2@yahoo.com
